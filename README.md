@@ -13,3 +13,5 @@ Para correr el servidor: python manage.py runserver (luego de runserver puedes e
 (revisar si estas en la carpeta del proyecto, de lo contrario no correrá el servidor)
 
 python manage.py startapp "nombre de la aplicación" (es para crear aplicaciones en el proyecto)
+
+python manage.py createsuperuser (para crear el usuario root que tendrá acceso al panel de administrador)
